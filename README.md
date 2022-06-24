@@ -17,16 +17,17 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 
 ## Challenges Solved: 
 
-- Sanity Check 1
-- Sanity Check 2
-- Hello_Hardware
-- Easy as you
-- Noice_UART
-- 4chan's favourite
-- murphy's ghost
-- IRC 
-- Baby_rev
-- Finding Joey
-- Web Inspector
-- Inspeccionar_y_disfrutar
-- Dots&Dashes
+- [Sanity Check 1]()
+- [Sanity Check 2]()
+- [Hello_Hardware]()
+- [Easy as you]()
+- [Noice_UART]()
+- [4chan's favourite]()
+- [murphy's ghost]()
+- [IRC]()
+- [Baby_rev]()
+- [Finding Joey]()
+- [Web Inspector]()
+- [Inspeccionar_y_disfrutar]()
+- [Dots&Dashes]()
+- [(net)cat out of the bag]()
