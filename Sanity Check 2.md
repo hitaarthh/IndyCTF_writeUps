@@ -18,4 +18,4 @@ Sanity Check 2 is yet another basic level CTF challenge in which the participant
 
 ### Flag: 
 
-ictf{We1c0m3_t0_indyCTF_}
+```ictf{We1c0m3_t0_indyCTF_}```

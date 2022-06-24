@@ -13,11 +13,11 @@ Hello Hardware is a challenge which is based on Logic gates and there implementa
 
 <div align="center">
 
-<img width="800" alt="Circuit Diagram" src="https://user-images.githubusercontent.com/91147942/175558321-be2080bc-b7e3-4e28-a61f-078357a40808.png">
-<img width="800" alt="Simulation" src="https://user-images.githubusercontent.com/91147942/175559507-d0830e58-f7d5-4f38-8530-2afe9de2f9fd.png">
+<img width="600" alt="Circuit Diagram" src="https://user-images.githubusercontent.com/91147942/175558321-be2080bc-b7e3-4e28-a61f-078357a40808.png">
+<img width="600" alt="Simulation" src="https://user-images.githubusercontent.com/91147942/175559507-d0830e58-f7d5-4f38-8530-2afe9de2f9fd.png">
 
 </div> 
 
 ### Flag: 
 
-ictf{G00d_woRk}
+```ictf{G00d_woRk}```
