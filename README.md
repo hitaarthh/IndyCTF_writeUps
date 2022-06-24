@@ -22,7 +22,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 ## Challenges Solved: 
 
 - [Sanity Check 1](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Sanity%20Check%201.md)
-- Sanity Check 2
+- [Sanity Check 2](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Sanity%20Check%202.md)
 - Hello_Hardware
 - Easy as you
 - Noice_UART
