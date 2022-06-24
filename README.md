@@ -1,7 +1,7 @@
 <div >
-<a href="https://indy.ctf.eng.run/"><img src="https://img.shields.io/badge/IndyCTF-Click%20to%20Play-orange" align="left"></a>
+<a href="https://indy.ctf.eng.run/"><img src="https://img.shields.io/badge/IndyCTF-Click%20to%20Play-orange" align="left" height="25"></a>
 
-<a href=""><img src="https://camo.githubusercontent.com/4a181d059bdcf875fe23dac61acbec1e5ea2487ac1cce6e0b7827dfec98d7726/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465616d426930732d48617264776172652d626c61636b" align="right"></a>
+<a href=""><img src="https://camo.githubusercontent.com/4a181d059bdcf875fe23dac61acbec1e5ea2487ac1cce6e0b7827dfec98d7726/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465616d426930732d48617264776172652d626c61636b" height="25" align="right"></a>
 </div>
 
 <br></br>
