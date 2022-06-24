@@ -11,7 +11,9 @@ Sanity Check 1 is the very basic level CTF challenge in which the participants h
 
 - This is what the Discord server looks like and the flag was found in the ```#flag``` channel.
 
-<img width="1132" alt="discord" src="https://user-images.githubusercontent.com/91147942/175546250-a3c28a13-3fde-4a97-b634-13ac3670937f.png">
+<div align="center">
+<img width="700" alt="discord"  src="https://user-images.githubusercontent.com/91147942/175546250-a3c28a13-3fde-4a97-b634-13ac3670937f.png">
+</div> 
 
 ### Flag: 
 
