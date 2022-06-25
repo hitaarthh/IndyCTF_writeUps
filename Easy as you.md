@@ -20,7 +20,7 @@ Easy as you didn't seem to be so easy. It was one of the only reversing challeng
 - Execute the given code to get the flag.
 
 <div align="center">
-<img width="500" alt="IDA Compiler" src="https://user-images.githubusercontent.com/91147942/175774976-2e081a8c-760d-4e27-a26a-5688bbc76fe5.png">
+<img width="800" alt="IDA Compiler" src="https://user-images.githubusercontent.com/91147942/175774976-2e081a8c-760d-4e27-a26a-5688bbc76fe5.png">
 </div>
 
 ### Flag: 

@@ -36,7 +36,7 @@ Description : An IR Communication was sniffed between two people. The data was a
 I observed the given code in the tinkercad and figure out the the flag as it was given in the broken parts ```ctf```, ```wh```, ```rs```,   ```fla```, ```1aG``` and gave the given inputs by converting to the hex code and took the ctf.
 
 <div align="center">
-<img width="500" alt="Piece code for reference" src="https://user-images.githubusercontent.com/91147942/175774523-dea495d7-ac25-44c8-bc61-cb1234864deb.png">
+<img width="800" alt="Piece code for reference" src="https://user-images.githubusercontent.com/91147942/175774523-dea495d7-ac25-44c8-bc61-cb1234864deb.png">
 </div>
 
 ### Flag: 

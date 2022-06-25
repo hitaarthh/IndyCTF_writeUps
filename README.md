@@ -24,7 +24,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - [Sanity Check 1](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Sanity%20Check%201.md)
 - [Sanity Check 2](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Sanity%20Check%202.md)
 - [Hello_Hardware](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Hello%20Hardware.md)
-- Easy as you
+- [Easy as you](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Easy%20as%20you.md)
 - Noice_UART
 - 4chan's favourite
 - murphy's ghost
