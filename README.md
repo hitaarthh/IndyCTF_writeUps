@@ -3,7 +3,7 @@
 
 <a href="https://bi0s.in/hardware.html"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" height="25" align="right"></a>
 
-<img src="https://img.shields.io/badge/Flags%20Found%3A-14-violet" height="25" align="right">
+<img src="https://img.shields.io/badge/Flags%20Found%3A-16-violet" height="25" align="right">
 
 
 </div>
@@ -35,3 +35,4 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - Inspeccionar_y_disfrutar
 - Dots&Dashes
 - (net)cat out of the bag
+- Baby_IR

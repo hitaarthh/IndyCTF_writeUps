@@ -17,4 +17,4 @@ Sanity Check 1 is the very basic level CTF challenge in which the participants h
 
 ### Flag: 
 
-ictf{L3t_7h3_G4me5_b3G1n}
+```ictf{L3t_7h3_G4me5_b3G1n}```
