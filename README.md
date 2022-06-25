@@ -35,4 +35,4 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - Inspeccionar_y_disfrutar
 - Dots&Dashes
 - (net)cat out of the bag
-- Baby_IR
+- [Baby_IR](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_IR.md)
