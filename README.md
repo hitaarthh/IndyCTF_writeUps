@@ -26,7 +26,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - [Hello_Hardware](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Hello%20Hardware.md)
 - [Easy as you](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Easy%20as%20you.md)
 - [Noice_UART](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Noice_UART.md)
-- 4chan's favourite
+- [4chan's favourite](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/4chan's%20favourite.md)
 - murphy's ghost
 - IRC
 - Baby_rev
