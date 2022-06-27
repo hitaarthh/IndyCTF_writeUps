@@ -29,7 +29,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - [4chan's favourite](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/4chan's%20favourite.md)
 - [murphy's ghost](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/murphy's%20ghost.md)
 - [IRC](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/IRC.md)
-- Baby_rev
+- [Baby_rev](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_rev.md)
 - Finding Joey
 - [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md)
 - Transkey
