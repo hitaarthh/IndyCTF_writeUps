@@ -30,7 +30,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - [murphy's ghost](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/murphy's%20ghost.md)
 - [IRC](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/IRC.md)
 - [Baby_rev](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_rev.md)
-- Finding Joey
+- [Finding Joey](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Finding%20Joey.md)
 - [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md)
 - Transkey
 - some weird stuff
