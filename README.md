@@ -3,7 +3,7 @@
 
 <a href="https://bi0s.in/hardware.html"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" height="25" align="right"></a>
 
-<img src="https://img.shields.io/badge/Flags%20Found%3A-16-violet" height="25" align="right">
+<img src="https://img.shields.io/badge/Flags%20Found%3A-19-violet" height="25" align="right">
 
 
 </div>
@@ -32,7 +32,10 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - Baby_rev
 - Finding Joey
 - Web Inspector
+- Transkey
+- some weird stuff
 - Inspeccionar_y_disfrutar
+- Lifetimesettlement
 - [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md)
 - [(net)cat out of the bag](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/(net)cat%20out%20of%20the%20bag.md)
 - [Baby_IR](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_IR.md)
