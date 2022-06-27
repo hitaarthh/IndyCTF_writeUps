@@ -31,10 +31,10 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - IRC
 - Baby_rev
 - Finding Joey
-- Web Inspector
+- [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md)
 - Transkey
 - some weird stuff
-- Inspeccionar_y_disfrutar
+- [Inspeccionar_y_disfrutar](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Inspeccionar_y_disfrutar.md)
 - Lifetimesettlement
 - [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md)
 - [(net)cat out of the bag](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/(net)cat%20out%20of%20the%20bag.md)

@@ -9,7 +9,7 @@
 
 - Flag in this challenge was kept blurred which is usually achieved by using CSS style sheet, hence flag can be found by inspecting the .css file.
 
-<div align="align">
+<div align="center">
 
 <img width="600" alt="snapshot" src="https://user-images.githubusercontent.com/91147942/175945474-53c54cb2-8a40-4a57-9b17-3b9520ae78a1.png">
 
