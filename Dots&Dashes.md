@@ -1,5 +1,6 @@
 <div>
    <a href="https://indy.ctf.eng.run/challenge/22"><img src="https://img.shields.io/badge/Dots&Dashes: %20-Click%20to%20Solve-green[700]" height="25"></a>
+  <img src="https://img.shields.io/badge/Category%3A%20-Wireless-orange" align="right" height="25">
   <img src="https://img.shields.io/badge/Points%3A-75-red" align="right" height="25">
 </div>
 
