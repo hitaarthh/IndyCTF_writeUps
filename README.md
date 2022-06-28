@@ -23,6 +23,8 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 
 ### Categories: 
 
+--- 
+
 ##### Wireless: 
 - [4chan's favourite](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/4chan's%20favourite.md)
 
@@ -33,6 +35,19 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - [murphy's ghost](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/murphy's%20ghost.md)
 
 -----
+
+##### Hardware:
+
+- [Hello_Hardware](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Hello%20Hardware.md)
+
+- [Noice_UART](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Noice_UART.md)
+
+- [Baby_IR](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_IR.md)
+
+- [5niff--1t](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/5niff--1t.md)
+
+---
+
 ##### MISC:
 - [Sanity Check 1](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Sanity%20Check%201.md)
 - [Sanity Check 2](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Sanity%20Check%202.md)
@@ -49,17 +64,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 
 ---
 
-##### Hardware:
 
-- [Hello_Hardware](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Hello%20Hardware.md)
-
-- [Noice_UART](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Noice_UART.md)
-
-- [Baby_IR](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_IR.md)
-
-- [5niff--1t](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/5niff--1t.md)
-
----
 
 ##### Reversing:
 
@@ -69,17 +74,19 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 
 ---
 
-##### OSINT: 
-- [Finding Joey](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Finding%20Joey.md)
-
----
-
 ##### Crypto:
 - Transkey
 - Lifetimesettlement
 
 ---
+##### OSINT: 
+- [Finding Joey](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Finding%20Joey.md)
+
+---
+
+
 
 ##### Programming:
 - [(net)cat out of the bag](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/(net)cat%20out%20of%20the%20bag.md)
 
+---
