@@ -21,22 +21,65 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 
 ## Challenges Solved: 
 
+### Categories: 
+
+##### Wireless: 
+- [4chan's favourite](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/4chan's%20favourite.md)
+
+- [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md)
+
+- [some weird stuff](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/some%20wierd%20stuff.md)
+
+- [murphy's ghost](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/murphy's%20ghost.md)
+
+-----
+##### MISC:
 - [Sanity Check 1](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Sanity%20Check%201.md)
 - [Sanity Check 2](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Sanity%20Check%202.md)
-- [Hello_Hardware](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Hello%20Hardware.md)
-- [Easy as you](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Easy%20as%20you.md)
-- [Noice_UART](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Noice_UART.md)
-- [4chan's favourite](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/4chan's%20favourite.md)
-- [murphy's ghost](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/murphy's%20ghost.md)
+
 - [IRC](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/IRC.md)
-- [Baby_rev](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_rev.md)
-- [Finding Joey](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Finding%20Joey.md)
+
+---
+
+##### Web:
+
 - [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md)
-- Transkey
-- [some weird stuff](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/some%20wierd%20stuff.md)
+
 - [Inspeccionar_y_disfrutar](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Inspeccionar_y_disfrutar.md)
-- Lifetimesettlement
-- [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md)
-- [(net)cat out of the bag](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/(net)cat%20out%20of%20the%20bag.md)
+
+---
+
+##### Hardware:
+
+- [Hello_Hardware](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Hello%20Hardware.md)
+
+- [Noice_UART](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Noice_UART.md)
+
 - [Baby_IR](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_IR.md)
+
 - [5niff--1t](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/5niff--1t.md)
+
+---
+
+##### Reversing:
+
+- [Easy as you](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Easy%20as%20you.md)
+
+- [Baby_rev](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_rev.md)
+
+---
+
+##### OSINT: 
+- [Finding Joey](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Finding%20Joey.md)
+
+---
+
+##### Crypto:
+- Transkey
+- Lifetimesettlement
+
+---
+
+##### Programming:
+- [(net)cat out of the bag](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/(net)cat%20out%20of%20the%20bag.md)
+
