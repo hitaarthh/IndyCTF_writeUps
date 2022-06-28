@@ -39,3 +39,4 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md)
 - [(net)cat out of the bag](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/(net)cat%20out%20of%20the%20bag.md)
 - [Baby_IR](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Baby_IR.md)
+- [5niff--1t](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/5niff--1t.md)

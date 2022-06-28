@@ -1,6 +1,8 @@
 <div>
    <a href="https://indy.ctf.eng.run/challenge/23"><img src="https://img.shields.io/badge/Inspeccionar_y_disfrutar: %20-Click%20to%20Solve-green[700]" height="25"></a>
   <img src="https://img.shields.io/badge/Points%3A-75-red" align="right" height="25">
+        <img src="https://img.shields.io/badge/Category%3A%20-Web-orange" align="right" height="25">
+
 </div>
 <div align="center">
 <h1>Inspeccionar_y_disfrutar</h1>
