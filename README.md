@@ -3,7 +3,7 @@
 
 <a href="https://bi0s.in/hardware.html"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" height="25" align="right"></a>
 
-<img src="https://img.shields.io/badge/Flags%20Found%3A-19-violet" height="25" align="right">
+<img src="https://img.shields.io/badge/Flags%20Found%3A-18-violet" height="25" align="right">
 
 
 </div>
@@ -28,7 +28,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 ##### Wireless: 
 - [4chan's favourite](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/4chan's%20favourite.md)
 
-- [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md)
+- [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md) {this challenge marks were not added to my final score due to technical isssues.}
 
 - [some weird stuff](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/some%20wierd%20stuff.md)
 
@@ -58,7 +58,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 
 ##### Web:
 
-- [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md)
+- [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md) {this challenge marks were not added to my final score due to technical isssues.}
 
 - [Inspeccionar_y_disfrutar](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Inspeccionar_y_disfrutar.md)
 
