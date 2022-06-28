@@ -7,6 +7,8 @@
     <h1>Sanity Check 1</h1>
 </div>
 
+### Approach:
+
 Sanity Check 1 is the very basic level CTF challenge in which the participants had to simply the join the <a href="https://discord.com/invite/DQERbFYbf7?event=986488811489996842"><em>discord</em></a> server in order to find the flag.
 
 - This is what the Discord server looks like and the flag was found in the ```#flag``` channel.

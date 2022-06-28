@@ -33,7 +33,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 - [Finding Joey](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Finding%20Joey.md)
 - [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md)
 - Transkey
-- some weird stuff
+- (some weird stuff)[https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/some%20wierd%20stuff.md]
 - [Inspeccionar_y_disfrutar](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Inspeccionar_y_disfrutar.md)
 - Lifetimesettlement
 - [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md)

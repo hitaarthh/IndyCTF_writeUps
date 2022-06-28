@@ -8,7 +8,9 @@
     <h1>Baby_IR</h1>
 </div>
 
-Description : An IR Communication was sniffed between two people. The data was a pile of binary digits. Analyze the data sniffed and use them in the circuit and get a "meaning full" flag. (Data contains junk values too.)
+### Description :
+
+ An IR Communication was sniffed between two people. The data was a pile of binary digits. Analyze the data sniffed and use them in the circuit and get a "meaning full" flag. (Data contains junk values too.)
 
 
 ```

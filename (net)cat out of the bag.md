@@ -7,6 +7,8 @@
 <h1>(net)cat out of the bag</h1>
 </div>
 
+### Approach:
+
 Just a simple netcat challenge, use the given instance and get the flag
 
 <div align="center">
