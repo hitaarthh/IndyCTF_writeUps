@@ -7,6 +7,8 @@
 <h1>Finding Joey</h1>
 </div>
 
+### Approach:
+
 Got the location by searching the given image in Google lens.
 
 ### Flag: 

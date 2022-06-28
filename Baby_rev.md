@@ -7,6 +7,8 @@
 <h1>Baby_rev</h1>
 </div>
 
+### Approach:
+
 Simply opened the ```.bin``` file using <a href="https://filext.com/online-file-viewer.html">FILExt</a> and got the flag.
 
 <div align="center">

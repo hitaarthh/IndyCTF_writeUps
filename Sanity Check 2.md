@@ -7,6 +7,8 @@
     <h1>Sanity Check 2</h1>
 </div>
 
+### Approach:
+
 Sanity Check 2 is yet another basic level CTF challenge in which the participants had to simply the fill the <a href="https://forms.gle/v96EUicARimb1ZxaA"><em>form</em></a> to get the flag.
 
 - This is what the form  looks like where the flag is found.

@@ -7,6 +7,8 @@
 <h1>IRC</h1>
 </div>
 
+### Approach:
+
 The flag in this challenge was obtained by just joining the channel in <a href="https://web.libera.chat/">Libera Chat.</a>
 
 <div align="center">

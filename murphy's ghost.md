@@ -7,6 +7,8 @@
 <h1>murphy's ghost</h1>
 </div>
 
+### Approach:
+
 In this challenge we were provided with two files, one was the ``cipherText`` file and the other was the ```key``` to that cipherText.
 
 The cipherText sound file was a morse code and the key was found by viewing the given key.wav in spectrogram.

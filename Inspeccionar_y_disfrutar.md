@@ -6,6 +6,7 @@
 <h1>Inspeccionar_y_disfrutar</h1>
 </div>
 
+### Approach:
 
 - Flag in this challenge was kept blurred which is usually achieved by using CSS style sheet, hence flag can be found by inspecting the .css file.
 

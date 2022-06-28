@@ -7,6 +7,8 @@
     <h1>Dots&Dashes</h1>
 </div>
 
+### Approach:
+
 It was a simple wireless challenge in which we had to just convert the given audio sound into morse code.
 
 <div align="center">

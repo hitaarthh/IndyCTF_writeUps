@@ -7,6 +7,8 @@
 <h1>Web Inspector</h1>
 </div>
 
+### Approach:
+
 A simple Web based challenge in which we had to inspect the given website and find the flag.
 
 - Flag 1 was commented out in the html code of the given website.
