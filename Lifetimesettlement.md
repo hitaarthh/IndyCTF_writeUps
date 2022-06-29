@@ -11,7 +11,7 @@
 
 ### Approach:
 
-Just a very wild guess, i heard the rolex and ghost, the first thing came to my mind was the VIKRAM, and second is ```once upon a time there lived a ghost.``` and boom it was a good luck.😅
+Just a very wild guess, i heard the rolex and ghost, the first thing came to my mind was the VIKRAM, and second is once upon a time there lived a ghost and boom it was a good luck.😅
 ### Flag: 
 
 ```ictf{0nc3_ap0n_a_t1m3_th3r3_L1ved_a_g0st_V1kr4m}```
