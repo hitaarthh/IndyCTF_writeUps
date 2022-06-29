@@ -28,7 +28,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 ##### Wireless: 
 - [4chan's favourite](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/4chan's%20favourite.md)
 
-- [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md) {❗️Marks forthis challenge  were not added to my final score due to technical isssues.❗️}
+- [Dots&Dashes](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Dots%26Dashes.md) {❗️Marks for this challenge  were not added to my final score due to technical issues.❗️}
 
 - [some weird stuff](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/some%20wierd%20stuff.md)
 
@@ -58,7 +58,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 
 ##### Web:
 
-- [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md) {❗️Marks forthis challenge  were not added to my final score due to technical isssues.❗️}
+- [Web Inspector](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Web%20Inspector.md) {❗️Marks for this challenge  were not added to my final score due to technical issues.❗️}
 
 - [Inspeccionar_y_disfrutar](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Inspeccionar_y_disfrutar.md)
 
