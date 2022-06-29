@@ -76,7 +76,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 
 ##### Crypto:
 - Transkey
-- Lifetimesettlement
+- [Lifetimesettlement](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Lifetimesettlement.md)
 
 ---
 ##### OSINT: 
