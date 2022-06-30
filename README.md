@@ -75,7 +75,7 @@ IndyCTF is an opportunity to boost the understanding and recognition of hardware
 ---
 
 ##### Crypto:
-- Transkey
+- [Transkey](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Transkey.md)
 - [Lifetimesettlement](https://github.com/hitaarthh/IndyCTF_writeUps/blob/main/Lifetimesettlement.md)
 
 ---
