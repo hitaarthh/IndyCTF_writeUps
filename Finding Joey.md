@@ -13,6 +13,10 @@
 
 Got the location by searching the given image in Google lens.
 
+<div align="center">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/91147942/176722612-c59beac1-17ed-4afe-be95-2d8b0849d141.png">
+</div>
+
 ### Flag: 
 
 ```ictf{Canning_Town_Bus_Station}```
