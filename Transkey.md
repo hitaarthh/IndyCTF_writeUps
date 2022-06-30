@@ -10,6 +10,8 @@
 
 ### Approach:
 
+- Maybe i haven't approached the challenge in the correct way but i tried couple of online encryption/decryption programmes and somehow i got the key as ```cabd``` and then i used the key again in the decryption programme to get the flag.
+
 ```
 import math
 
