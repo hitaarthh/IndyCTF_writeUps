@@ -18,7 +18,7 @@ Hello Hardware is a challenge which is based on Logic gates and there implementa
  ```ABCD=1001```
 <div align="center">
 <img width="500" alt="Circuit Diagram" src="https://user-images.githubusercontent.com/91147942/175565434-d350a44a-aadd-4edc-bdcf-7c01db405866.png">
-<img width="500" alt="Simulation" src="https://user-images.githubusercontent.com/91147942/175559507-d0830e58-f7d5-4f38-8530-2afe9de2f9fd.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/91147942/176725669-41252375-7ef2-4a8e-a985-a017ff3224a5.png">
 
 </div> 
 
