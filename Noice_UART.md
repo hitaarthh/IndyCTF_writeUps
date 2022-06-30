@@ -14,7 +14,7 @@
 - Simply converted the given binary values into corresponding ASCII values which came out to be ```R128ASB```
 
 <div align="center">
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/91147942/176726308-01780aae-226e-4be1-a105-9b895bf10887.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/91147942/176726308-01780aae-226e-4be1-a105-9b895bf10887.png">
 </div>
 ### Flag: 
 
