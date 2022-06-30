@@ -11,7 +11,7 @@
 
 ### Approach:
 
-- Simply converted the given binary values into corresponding ASCII values which came out to be ```R128ASB```.
+- Simply converted the given binary values into corresponding ASCII values which came out to be ```R128ASB```
 
 ### Flag: 
 
