@@ -14,7 +14,10 @@ In this challenge we were provided with two files, one was the ``cipherText`` fi
 
 The cipherText sound file was a morse code and the key was found by viewing the given key.wav in spectrogram.
 
-❌Couldn't upload the screenshots due to lack of the file.❌
+<div align="center">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/91147942/176723262-f4e08b09-82bb-47f9-bf3b-5410eab88d92.png">
+
+</div>
 ### Flag: 
 
 ```ictf{matthewmcconaughey}```
