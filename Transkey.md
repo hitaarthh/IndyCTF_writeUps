@@ -10,7 +10,8 @@
 
 ### Approach:
 
-```import math
+```
+import math
 
 key = "XXXXXX"
 def encryptMessage(msg):
