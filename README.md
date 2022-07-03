@@ -3,7 +3,7 @@
 
 <a href="https://bi0s.in/hardware.html"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" height="25" align="right"></a>
 
-<img src="https://img.shields.io/badge/Flags%20Found%3A-19-violet" height="25" align="right">
+<img src="https://img.shields.io/badge/Flags%20Found%3A-18-violet" height="25" align="right">
 
 
 </div>
